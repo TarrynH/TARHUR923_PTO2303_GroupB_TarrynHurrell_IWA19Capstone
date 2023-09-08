@@ -316,7 +316,7 @@ const searchForm = (event) => {
     data.search.form.reset()
     data.search.overlay.close()
 }
-data.search.form.addEventListener('submit', searchForm)
+
 
 
 /**
